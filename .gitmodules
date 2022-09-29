@@ -1,0 +1,3 @@
+[submodule "TrWebOCR"]
+	path = TrWebOCR
+	url = https://github.com/alisen39/TrWebOCR.git
